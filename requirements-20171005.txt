@@ -37,4 +37,4 @@ simplejson==3.10.0
 six==1.10.0
 sqlcmd==0.7.1
 Unidecode==0.4.20
-Werkzeug==0.12.2
+Werkzeug==0.15.3
