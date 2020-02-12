@@ -1,5 +1,5 @@
 chardet==2.3.0
-Django==1.8.4
+Django==1.11.28
 django-contrib-comments==1.7.3
 django-crispy-forms==1.6.0
 django-filter==0.15.3
