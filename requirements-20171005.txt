@@ -24,7 +24,7 @@ grizzled-python==1.0.1
 MySQL-python==1.2.3
 olefile==0.44
 phonenumberslite==8.6.0
-Pillow==4.1.0
+Pillow==8.1.1
 prettytable==0.7.2
 python-dateutil==2.6.0
 python-weixin==0.1.6.1

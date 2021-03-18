@@ -28,7 +28,7 @@ wechat-sdk==0.5.8
 wechatpay==1.1.5
 Werkzeug==0.11.11
 appdirs==1.4.3
-Pillow==4.1.0
+Pillow==8.1.1
 django-calendarium==1.3.4
 django_mobile_auth==0.7.28
 django-phonenumber-field==1.3.0 
